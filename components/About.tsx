@@ -19,7 +19,7 @@ const About = () => {
                         Since that day, I got the desire to learn more and to be
                         a software engineer.{" "}
                     </p>
-                    <p>Moreover, It's this interest for IT and my desire to know more that fuels 
+                    <p>Moreover, It is this interest for IT and my desire to know more that fuels 
                         the hard working spirit in me
                     </p>
                     <p>
