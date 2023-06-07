@@ -21,7 +21,7 @@ const Banner = () => {
             animate={{y:0, opacity:1}} 
             transition={{duration:0.5, delay:0.8}}
             className="text-base md:max-w-[650px] text-textDark font-medium">
-                I am a full stack web, moblie and stand alone applications. I have a 
+                I am a full stack web, moblie and standalone developer. I have a 
                 strong foundation in backend and frontend development and am skilled in 
                 creating efficient, user-friendly and responsive softwares using java 
                 and its ecosystem.{" "}

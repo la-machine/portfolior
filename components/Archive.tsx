@@ -40,8 +40,8 @@ const Archive = () => {
                                 whileInView={{opacity:1}}
                                 transition={{delay:0.2}}
                                 >
-                                <ArchiveCard title="Chart App" des="We use android studio to create an app were users will be able to 
-                                    chart with each others freely. We added a notification and an online arlet such that when a user is 
+                                <ArchiveCard title="Chat App" des="We use android studio to create an app were users will be able to 
+                                    chat with each others freely. We added a notification and an online arlet such that when a user is 
                                     online we can see and when someone text us when we are not on the app we recieve a notification"
                                     listItems={["Spring Boot", " Security", "JWT", "Postgres"]}/>
                                 </motion.div>
