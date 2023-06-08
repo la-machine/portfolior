@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>YOAULEU .T. FRANK LOIC</title>
+        <title>FRANK LOIC</title>
         <link rel="png" href="YFlogo.png" />
       </Head>
       <body>
