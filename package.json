@@ -16,10 +16,7 @@
     "eslint-config-next": "13.4.2",
     "framer-motion": "^10.12.12",
     "next": "13.4.2",
-<<<<<<< HEAD
-=======
     "nextportfolio": "file:",
->>>>>>> d8358b7 (Initial commit or message describing changes)
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
