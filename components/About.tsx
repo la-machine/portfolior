@@ -19,6 +19,12 @@ const About = () => {
                         Since that day, I got the desire to learn more and to be
                         a software engineer.{" "}
                     </p>
+                    <p>
+                    I specialize in creating robust, efficient applications, 
+                        ensuring that each solution is both secure and scalable. My experience extends across backend development, 
+                        DevOps practices, and cloud solutions, with a keen interest in using Spring Security and JWT for building 
+                        reliable authentication and authorization systems.{" "}
+                    </p>
                     <p>Moreover, It is this interest for IT and my desire to know more that fuels 
                         the hard working spirit in me
                     </p>
@@ -26,6 +32,7 @@ const About = () => {
                         Fast-forwared I had the previlage to do my internship at a start-up,
                         {" "} <a href="https://www.gsc-technology.com" target="_blank"><span className="text-textGreen"> Global Soft And Communication (GSC) </span></a>
                         located at Akwa in Douala Cameroon.
+                        Also at Winmoney a small start-up located in Yaounde, carefour Biye-massi
                     </p>
                     <p>Here are some few technologies I have been working with recently : </p>
                     <ul className="max-w-[450] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
@@ -40,11 +47,11 @@ const About = () => {
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>
                         Python</li>
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>
-                        JavaScript (basics)</li>
+                        Jenkins</li>
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>
                         NextJs</li>
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>
-                        React-native</li>
+                        Kafka</li>
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>
                         Tailwind</li>
                         <li className="flex items-center gap-2"><span className="text-textGreen"><AiFillThunderbolt/></span>

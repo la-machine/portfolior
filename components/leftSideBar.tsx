@@ -13,7 +13,7 @@ const LeftSideBar = () => {
                         <TbBrandGithub />
                     </span>
                 </a>
-                <a href="https://github.com/la-machine" target="_blank">
+                <a href="https://www.linkedin.com/in/frank-loic-29145222a" target="_blank">
                     <span className="w-10 h-10 text-xl bg-hoverColor rounded-full inline-flex
                     items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2
                     translation-all duration-300">

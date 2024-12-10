@@ -54,6 +54,42 @@ const Archive = () => {
                                     the list of student. From there it will randomly generate groups and assign everybody to a particular group"
                                     listItems={["Tkinter", "Random", "VScode"]}/>
                                 </motion.div>
+                                <motion.div 
+                                initial={{ opacity: 0 }} 
+                                whileInView={{ opacity: 1 }} 
+                                transition={{ delay: 0.1 }}
+                            >
+                                <ArchiveCard 
+                                    title="MedNet (EHR System)" 
+                                    des="Designed a scalable, modular Electronic Health Record (EHR) system to digitize healthcare management. 
+                                    Features include patient record storage, appointment scheduling, and medical history management. Targeted for hospitals across Africa." 
+                                    listItems={["Spring Boot", "JWT","Kafka","Jenkin", "Postgres"]} 
+                                />
+                            </motion.div>
+                            <motion.div 
+                                initial={{ opacity: 0 }} 
+                                whileInView={{ opacity: 1 }} 
+                                transition={{ delay: 0.3 }}
+                            >
+                                <ArchiveCard 
+                                    title="Trip Booking System" 
+                                    des="Developed a comprehensive trip booking platform enabling users to search, compare, and book trips from various agencies. 
+                                    Includes features for trip recommendations and real-time booking updates." 
+                                    listItems={["Spring Boot", "Ionic", "Angular", "Postgres"]} 
+                                />
+                            </motion.div>
+                            <motion.div 
+                                initial={{ opacity: 0 }} 
+                                whileInView={{ opacity: 1 }} 
+                                transition={{ delay: 0.2 }}
+                            >
+                                <ArchiveCard 
+                                    title="TradiHub (Family Tree System)" 
+                                    des="Just from initiating an open-source project to create a family tree management platform. 
+                                    Users can document lineage, add multimedia to profiles, and visualize relationships interactively." 
+                                    listItems={["React", "Spring boot", "Spring security", "MongoDB"]} 
+                                />
+                            </motion.div>
                             </>
                         )
                     }

@@ -21,10 +21,10 @@ const Banner = () => {
             animate={{y:0, opacity:1}} 
             transition={{duration:0.5, delay:0.8}}
             className="text-base md:max-w-[650px] text-textDark font-medium">
-                I am a full stack web, moblie and standalone developer. I have a 
-                strong foundation in backend and frontend development and am skilled in 
-                creating efficient, user-friendly and responsive softwares using java 
-                and its ecosystem.{" "}
+                <b>I am a Backend-Focused Full Stack Developer with expertise in web, mobile, and standalone applications. </b>
+                I specialize in backend development, creating efficient, scalable, and secure systems using Java and its ecosystem. 
+                With a strong foundation in both backend and frontend technologies, I am committed to delivering robust, 
+                user-friendly solutions that meet complex business needs.{" "}
                 <a href="#" target="_blank">
                     <span className="text-textGreen inline-flex relative
                     cursor-pointer h-7 overflow-x-hidden group">Learn More
